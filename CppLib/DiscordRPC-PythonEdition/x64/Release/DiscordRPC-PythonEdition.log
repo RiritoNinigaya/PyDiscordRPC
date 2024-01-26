@@ -1,0 +1,7 @@
+﻿  dllmain.cpp
+     Creating library C:\Users\gsx12\source\repos\DiscordRPC-PythonEdition\x64\Release\DiscordRPC-PythonEdition.lib and object C:\Users\gsx12\source\repos\DiscordRPC-PythonEdition\x64\Release\DiscordRPC-PythonEdition.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DiscordRPC-PythonEdition.vcxproj -> C:\Users\gsx12\source\repos\DiscordRPC-PythonEdition\x64\Release\DiscordRPC-PythonEdition.dll
