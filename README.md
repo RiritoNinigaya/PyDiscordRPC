@@ -1,2 +1,2 @@
 # PyDiscordRPC
-PyDiscordRPC by RiritoNinigaya(Better Version of Discord RPC in Python)
+It is My First Python Library for Discord RPC... Enjoy to use!!!
